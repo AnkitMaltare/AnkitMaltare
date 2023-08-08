@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnkitMaltare
-- 👀 I’m interested in Python programming and finding solutions to the problem
+- 👀 I’m interested in Python programming
 - 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me ankitmaltare@gmail.com
 
